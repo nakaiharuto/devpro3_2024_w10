@@ -1,4 +1,4 @@
-void setup() {
+wwwvoid setup() {
   // シリアル通信の開始
   Serial.begin(9600);
 }
