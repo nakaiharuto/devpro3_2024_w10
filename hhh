@@ -1,11 +1,4 @@
 
-void loop() {.......
-  // アナログピンA0の値を読み取る
-  int sensorValue = analogRead(A0);
-
-  // 読み取った値をシリアルモニターに送る
-  Serial.println(sensorValue);
-llllll
 
   // データのプロットのための短い遅延
   delay(100); // データを見やすくするために短い遅延を入れます
